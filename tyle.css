@@ -1,0 +1,197 @@
+.basic{
+   margin-top: 20px;
+   background-image: url(Vd.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 300px;
+   text-align: center;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   color: white;
+   border-bottom:8px solid red ;
+}.fav{   
+   margin-top: 20px;
+   background-image: url(Favdish.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-size: 30px;
+   height: 300px;
+   color: black;
+   text-align: center;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   border-bottom:8px solid red ;
+   
+   
+}.dreams{   
+   margin-top: 20px;
+   background-image: url(h4.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 300px;
+   text-align: center;
+   color: white;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   border-bottom:8px solid red ;
+   font-size: 30px;
+}.goals{
+   background-image: url(img_2833.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 20px;
+   
+   height: 300px;
+   text-align: center;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   font-size: 30px;
+   border-radius: 10%;
+   color: white;
+   border-bottom:8px solid red ;
+}.pubg{  
+   margin-top: 20px;
+   background: red;
+   height: 300px;
+   text-align: center;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   color: white;border-bottom:8px solid red ;}
+.Alv{
+font-size: 20px;
+padding-top: 50px;
+   
+}
+.hoby{
+   background-image: url(Hoby.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 300px;
+   text-align: center;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   margin-top: 20px;
+   color: white;
+   font-style: bold;
+   padding-top: 5px;
+   font-size: 30px;
+   border-bottom:8px solid red ;
+   
+   
+}
+.tada {
+  -webkit-animation-name: tada;
+  animation-name: tada;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  }
+  @-webkit-keyframes tada {
+  0% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  10%, 20% {
+  -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+  30%, 50%, 70%, 90% {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+  40%, 60%, 80% {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+  100% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  }
+  @keyframes tada {
+  0% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  10%, 20% {
+  -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+  30%, 50%, 70%, 90% {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+  40%, 60%, 80% {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+  100% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  } 
+  .pic1{
+   
+   background: red;
+
+   height: 300px;
+   text-align: center;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   border-bottom: 8px solid red;
+   font-size: 30px;
+   color: white;
+   
+}.pic2{   
+   margin-top: 20px;
+   background-image: url(Pic1.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 300px;
+   text-align: center;
+   color: white;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   border-bottom:8px solid red ;
+   font-size: 30px;}
+   .pic3{   
+   margin-top: 20px;
+   background-image: url(Pic4.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 300px;
+   text-align: center;
+   color: white;
+   width: 80%;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 2px solid red ;
+   border-radius: 10%;
+   border-bottom:8px solid red ;
+   font-size: 30px;}
+   

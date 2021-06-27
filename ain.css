@@ -1,0 +1,232 @@
+
+
+
+
+@keyframes ex{
+   from {
+      background: darkorange;
+      
+   }
+   to {background: orangered}
+   from{height: 100px;
+   
+      
+   }
+   to{
+      height:150px;
+      
+   }
+   
+   
+}
+@keyframes mx {
+   from {background: deepskyblue;
+   
+      
+   }
+   to {background: blue;
+      
+   }
+   from{
+      height: 100px;
+      
+   }
+   to {
+      height: 150px;
+      
+   }
+   
+}
+@keyframes cc{
+   from{
+      background: green;
+      font-size: 20px;
+   }
+   to {
+      background: darkgreen;
+      font-style: 25px;
+   }}
+   
+   @keyframes im {
+      from{height:125px;}
+      to{
+         height: 170px;
+         
+      }
+      
+      
+      
+      
+      
+      
+   }
+
+
+*{
+   margin: 0;
+   padding: 0;
+   
+}
+
+.head{
+   animation-name: cc;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+   animation-fill-mode:forwords;
+   background:green;
+   position: fixed;
+  right: 0;
+  left: 0;
+   
+   
+   font-size: 20px;
+   height: 40px;
+   padding-top: 20px;
+   
+   
+   text-align: center;
+   border: 2px solid black;
+   color:White;
+   border-radius:0px;
+   z-index: 31;
+   
+   margin-top: 0px;
+   
+   
+   
+   
+}
+.foot{
+   background: green;
+   font-size: 10px;
+   height: 40px;
+   text-align: center;
+   border: 2px solid black;
+   color: white;
+   text-transform: capitalize;
+   z-index: 21;
+   position: fixed;
+   
+   
+   
+   
+
+   
+   
+}
+body{
+    margin: 0px 2px 2px 2px;
+   
+}
+.black{
+   height:5px;
+   background: black;
+   border: 2px solid black;
+   
+   border-radius: 70%;
+   margin-top: 19px;
+   
+   
+}
+.lang{
+   animation-name: ex;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+   display: inline-block;
+   height:100px;
+   width: 40%;
+   background: darkorange;
+   border:2px solid darkorange;
+   border-radius: 10%;
+   margin: 10px;
+   color: white;
+   padding-top: 50px;
+   text-align: center;
+   margin-top: 40px;
+   
+   
+   
+}
+.lang2{
+   display: inline-block;
+   animation-name: mx;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+   
+  
+   height: 100px;
+   width: 40%;
+   background: deepskyblue;
+   border: 2px deepskyblue;
+   border-radius:10% ;
+   margin: 10px;
+   text-align: center;
+   padding-top: 50px;
+   color: white;
+   margin-top: 20px;
+   
+}
+.h2{
+   text-transform: capitalize;
+   
+   background: black;
+   color:white;
+   justify-content: center;
+   text-align: center;
+   border: 2px solid black;
+   border-radius: 90px;
+   margin-top: 60px
+   
+}
+.about{
+   height:20px;
+   text-align:center;
+   
+   margin: auto;
+   background: black;
+   color: white;
+   border: 2px solid black;
+   border-radius: 50%;
+   
+   
+   
+  
+}
+.follow_ig{
+  animation-name: im;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+   text-align: center;
+   margin: auto;
+  
+}
+#insta{
+   background: green;
+   color: white;
+   margin: 0px 40px 0px 40px;
+   border: 2px solid;
+   border-radius: 20px;
+   
+   
+}
+.follow_wp, .follow_tel,.contact{
+   animation-name: im;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+   text-align:center;
+   margin: auto;
+   
+}
+#wp ,#tel,#phone,#p2{
+   background: green;
+   color:white;
+   margin: 0px 40px 0px 40px;
+   border:2px solid;
+   border-radius: 20px;
+}
+#marathi {
+   color:White;
+   text-underline-position: none;
+}
+
+
